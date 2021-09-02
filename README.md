@@ -8,3 +8,4 @@ Dette er en en **markdown** text.
 3. Third Item
 4. Fourth Item
 5. Fifth Item
+6. Sixth Item
