@@ -1,0 +1,22 @@
+{
+  "name": "markdownintro",
+  "version": "1.0.0",
+  "description": "Intro of documentation in markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/dromtorpvgs/MarkdownIntro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dromtorpvgs/MarkdownIntro/issues"
+  },
+  "homepage": "https://github.com/dromtorpvgs/MarkdownIntro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
