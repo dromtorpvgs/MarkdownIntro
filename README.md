@@ -9,3 +9,4 @@ Dette er en en **markdown** text.
 4. Fourth Item
 5. Fifth Item
 6. Sixth Item
+7. Seventh Item
